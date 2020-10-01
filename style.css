@@ -104,7 +104,7 @@
     height: 50px;
     display: block;
     border: 1px solid #ffffff;
-    background-image: url(/avatar.jpg);
+    background-image: url(avatar.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
